@@ -10,10 +10,10 @@ Built from my day-to-day work in web scraping and automation where understanding
 
 | Tool | What's covered | Guide |
 |------|----------------|-------|
-| Charles Proxy | Setup, SSL proxying, mobile device config, rewrite/map rules | [charles/](./charles) |
-| Burp Suite | Proxy config, certificate install, Repeater, Intruder basics | [burp/](./burp) |
-| Caido | Setup, project workflow, replay, automate | [caido/](./caido) |
-| PowHTTP | Setup, capturing requests, inspecting TLS/HTTP details | [powhttp/](./powhttp) |
+| Charles Proxy | Setup, SSL proxying, mobile device config, rewrite/map rules | [charles](./charles.md) |
+| Burp Suite | Proxy config, certificate install, Repeater, Intruder basics | [burp](./burp.md) |
+| Caido | Setup, project workflow, replay, automate | [caido](./caido.md) |
+| PowHTTP | Setup, capturing requests, inspecting TLS/HTTP details | [powhttp](./powhttp.md) |
 
 ## Common topics
 
